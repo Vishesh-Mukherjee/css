@@ -1,0 +1,15 @@
+p {
+	background-color:gray;
+}
+
+#firstPara {
+	background-color:black;
+}
+
+.even {
+	background-color: red;
+}
+
+.odd {
+	background-color: purple;
+}
