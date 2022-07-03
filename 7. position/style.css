@@ -1,0 +1,18 @@
+#box1 {
+	border: 1px solid;
+	width: 400px;
+	height: 400px;
+	background-color: lightgreen;
+	position: sticky;
+	top: 0px;
+}
+
+#box2 {
+	border: 1px solid;
+	width: 200px;
+	height: 200px;
+	background-color: maroon;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
